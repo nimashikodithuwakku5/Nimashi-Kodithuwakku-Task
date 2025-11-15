@@ -1,0 +1,6 @@
+@SPILSalesOrder.API_HostAddress = http://localhost:5204
+
+GET {{SPILSalesOrder.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

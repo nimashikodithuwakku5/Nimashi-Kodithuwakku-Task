@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\bin\Debug\net8.0\SPILSalesOrder.Domain.deps.json
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\bin\Debug\net8.0\SPILSalesOrder.Domain.dll
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\bin\Debug\net8.0\SPILSalesOrder.Domain.pdb
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\obj\Debug\net8.0\SPILSalesOrder.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\obj\Debug\net8.0\SPILSalesOrder.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\obj\Debug\net8.0\SPILSalesOrder.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\obj\Debug\net8.0\SPILSalesOrder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\obj\Debug\net8.0\SPILSalesOrder.Domain.dll
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\obj\Debug\net8.0\refint\SPILSalesOrder.Domain.dll
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\obj\Debug\net8.0\SPILSalesOrder.Domain.pdb
+C:\Users\HP\Desktop\Spill_lab_task\backend\src\SPILSalesOrder.Domain\obj\Debug\net8.0\ref\SPILSalesOrder.Domain.dll
